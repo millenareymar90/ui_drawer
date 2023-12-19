@@ -1,6 +1,6 @@
 # ui_drawer
 
-A new Flutter project.
+A sample flutter drawer.
 
 ## Getting Started
 
