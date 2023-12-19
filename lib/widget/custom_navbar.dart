@@ -206,7 +206,7 @@ class _UserProfile extends StatelessWidget {
             child: Column(
               children: [
                 Text(
-                  'Jesse Dan P. Bancale',
+                  'John S. Smith',
                   style: TextStyle(
                     fontFamily: 'Roboto',
                     color: Colors.white,
@@ -214,7 +214,7 @@ class _UserProfile extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  'Pest & Deases Crew',
+                  'Service Crew',
                   style: TextStyle(
                     fontFamily: 'Roboto',
                     color: Colors.white,
